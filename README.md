@@ -45,29 +45,29 @@ This exercise covers a wide range of web app development topics as specified bel
   - Translated models using [django-parler](https://github.com/django-parler/django-parler)
   - Localized forms using [django-localflavor](https://github.com/django/django-localflavor)
 
-#### login with social authentication
-![](images/screenshots/login.png)
+#### product list page
+![](images/product_list_page.png)
 
-#### dashboard
-![](images/screenshots/dashboard.png)
+#### product detail page
+![](images/product_detail_page.png)
 
-#### Bookmark it bookmarklet
-![](images/screenshots/bookmarklet.png)
+#### cart detail page
+![](images/cart_detail_page.png)
 
-#### bookmark an image
-![](images/screenshots/bookmark_an_image.png)
+#### checkout_page
+![](images/checkout_page.png)
 
-#### image detail page
-![](images/screenshots/image_detail_page.png)
+#### order summary page
+![](images/order_summary_page.png)
 
-#### images bookmarked
-![](images/screenshots/images_bookmarked.png)
+#### stripe checkout payment form
+![](images/stripe_checkout_payment_form.png)
 
-#### user list page
-![](images/screenshots/people.png)
+#### success_page
+![](images/success_page.png)
 
-#### user detail page
-![](images/screenshots/user_page.png)
+#### orders admin page
+![](images/orders_page.png)
 
-#### admin page
-![](images/screenshots/admin.png)
+#### pdf invoice
+![](images/pdf_invoice.png)
