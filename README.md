@@ -54,7 +54,7 @@ This exercise covers a wide range of web app development topics as specified bel
 #### cart detail page
 ![](images/cart_detail_page.png)
 
-#### checkout_page
+#### checkout page
 ![](images/checkout_page.png)
 
 #### order summary page
@@ -63,7 +63,7 @@ This exercise covers a wide range of web app development topics as specified bel
 #### stripe checkout payment form
 ![](images/stripe_checkout_payment_form.png)
 
-#### success_page
+#### success page
 ![](images/success_page.png)
 
 #### orders admin page
